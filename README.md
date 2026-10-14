@@ -44,8 +44,8 @@ Dedicated to building robust, maintainable, and scalable test automation suites.
 
 ### 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+-- **LinkedIn:** [linkedin.com/in/gs-viknesh](https://www.linkedin.com/in/gs-viknesh)
+- **Email:** [vikneshgs2002@gmail.com](mailto:vikneshgs2002@gmail.com)
 
 <!--
 **vikneshgs23/vikneshgs23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
