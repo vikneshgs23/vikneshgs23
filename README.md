@@ -44,7 +44,7 @@ Dedicated to building robust, maintainable, and scalable test automation suites.
 
 ### 📬 Connect With Me
 
--- **LinkedIn:** [linkedin.com/in/gs-viknesh](https://www.linkedin.com/in/gs-viknesh)
+- **LinkedIn:** [linkedin.com/in/gs-viknesh](https://www.linkedin.com/in/gs-viknesh)
 - **Email:** [vikneshgs2002@gmail.com](mailto:vikneshgs2002@gmail.com)
 
 <!--
