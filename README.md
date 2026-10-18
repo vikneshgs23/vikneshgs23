@@ -38,7 +38,7 @@ Dedicated to building robust, maintainable, and scalable test automation suites.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikneshgs23&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="Viknesh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikneshgs23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikneshgs23&layout=compact&theme=radical&hide_border=true%22%20alt=%22Top%20Languages" />
 </div>
 ---
 
