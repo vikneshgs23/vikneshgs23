@@ -47,6 +47,10 @@ and I'm looking for QA Automation / SDET roles.
 [Repo](https://github.com/vikneshgs23/playwright-swaglabs-js) · [Live Report](https://vikneshgs23.github.io/playwright-swaglabs-js/)
 
 ---
+### 🎓 Certifications
+- **ISTQB Certified Tester Foundation Level (CTFL)** · [View certificate](https://drive.google.com/file/d/1ECh4nv7LeVLXmuitn7aEr0BI2p7vVKG-/view?usp=drive_link)
+
+---
 
 ### 📬 Connect With Me
 
