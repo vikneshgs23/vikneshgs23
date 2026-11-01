@@ -38,13 +38,13 @@ and I'm looking for QA Automation / SDET roles.
 
 ---
 
-### 📂 Featured Projects
+### 🧪 Featured Projects
 
-**[SauceDemo Selenium + TestNG Framework](https://github.com/vikneshgs23/saucedemo-selenium-testng-framework)**
-Java 17, Selenium 4, TestNG and Maven. Page Object Model, ExtentReports, failure screenshots, config-driven setup, headless runs on GitHub Actions.
+**Selenium + TestNG Framework (Java)**: UI automation for SauceDemo with Page Object Model, Extent Reports and GitHub Actions CI
+[Repo](https://github.com/vikneshgs23/saucedemo-selenium-testng-framework) · [Live Report](https://vikneshgs23.github.io/saucedemo-selenium-testng-framework/)
 
-**[Swag Labs Playwright (JavaScript)](https://github.com/vikneshgs23/playwright-swaglabs-js)**
-POM, JSON test data, parallel runs on Chromium, Firefox and WebKit, traces and screenshots on failure, CI on every push and PR.
+**Playwright Framework (JavaScript)**: Cross-browser E2E tests for SauceDemo with Page Object Model and GitHub Actions CI
+[Repo](https://github.com/vikneshgs23/playwright-swaglabs-js) · [Live Report](https://vikneshgs23.github.io/playwright-swaglabs-js/)
 
 ---
 
