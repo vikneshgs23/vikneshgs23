@@ -10,7 +10,7 @@ and I'm looking for QA Automation / SDET roles.
 ### 🚀 About Me
 
 - 💻 Hands-on with UI test automation in **Java (Selenium, TestNG)** and **JavaScript (Playwright)**
-- 🔌 Learned API testing basics with **Postman**
+- 🔌 API testing with **Postman** and **Newman**: test design, scripted assertions, CLI runs and HTML reports
 - 🎯 Focused on clean test architecture: Page Object Model, data-driven tests, cross-browser and parallel execution
 - ⚙️ Run my suites in CI with **GitHub Actions**
 - 🧪 Manual testing background (UI and end-to-end), passed **ISTQB CTFL**
@@ -32,6 +32,7 @@ and I'm looking for QA Automation / SDET roles.
 
 **API Testing, CI & Tools**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-F26B3A?style=flat-square&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -46,6 +47,9 @@ and I'm looking for QA Automation / SDET roles.
 **Playwright Framework (JavaScript)**: Cross-browser E2E tests for SauceDemo with Page Object Model and GitHub Actions CI
 [Repo](https://github.com/vikneshgs23/playwright-swaglabs-js) · [Live Report](https://vikneshgs23.github.io/playwright-swaglabs-js/)
 
+**API Testing Portfolio (Postman + Newman)**: Restful-Booker API tested end to end with 34 designed test cases and 41 scripted requests, run via Newman (87 assertions). Documents 2 real API defects. REST Assured framework in progress
+[Repo](https://github.com/vikneshgs23/api-automation-portfolio) · [Live Report](https://vikneshgs23.github.io/api-automation-portfolio/postman/reports/report.html)
+
 ---
 ### 🎓 Certifications
 - **ISTQB Certified Tester Foundation Level (CTFL)** · [View certificate](https://drive.google.com/file/d/1ECh4nv7LeVLXmuitn7aEr0BI2p7vVKG-/view?usp=drive_link)
@@ -55,17 +59,3 @@ and I'm looking for QA Automation / SDET roles.
 ### 📬 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/gs-viknesh](https://www.linkedin.com/in/gs-viknesh)
-<!--
-**vikneshgs23/vikneshgs23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
