@@ -48,8 +48,7 @@ and I'm looking for QA Automation / SDET roles.
 [Repo](https://github.com/vikneshgs23/playwright-swaglabs-js) · [Live Report](https://vikneshgs23.github.io/playwright-swaglabs-js/)
 
 **API Testing Portfolio (Postman + Newman)**: Restful-Booker API tested end to end with 34 designed test cases and 41 scripted requests, run via Newman (87 assertions). Documents 2 real API defects. REST Assured framework in progress
-[Repo](https://github.com/vikneshgs23/api-automation-portfolio) · [Live Report](https://vikneshgs23.github.io/api-automation-portfolio/postman/reports/report.html)
-
+[Repo](https://github.com/vikneshgs23/api-automation-portfolio) · [Live Reports](https://vikneshgs23.github.io/api-automation-portfolio/)
 ---
 ### 🎓 Certifications
 - **ISTQB Certified Tester Foundation Level (CTFL)** · [View certificate](https://drive.google.com/file/d/1ECh4nv7LeVLXmuitn7aEr0BI2p7vVKG-/view?usp=drive_link)
