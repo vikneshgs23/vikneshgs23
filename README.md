@@ -47,7 +47,7 @@ and I'm looking for QA Automation / SDET roles.
 **Playwright Framework (JavaScript)**: Cross-browser E2E tests for SauceDemo with Page Object Model and GitHub Actions CI
 [Repo](https://github.com/vikneshgs23/playwright-swaglabs-js) · [Live Report](https://vikneshgs23.github.io/playwright-swaglabs-js/)
 
-**API Testing Portfolio (Postman + Newman)**: Restful-Booker API tested end to end with 34 designed test cases and 41 scripted requests, run via Newman (87 assertions). Documents 2 real API defects. REST Assured framework in progress
+**API Testing Portfolio (Postman + Newman)**: Restful-Booker API tested end to end with 34 designed test cases and 41 scripted requests, run via Newman (87 assertions). Documents 2 real API defects. REST Assured framework 34 out of 34 TestCases Auotmated.
 [Repo](https://github.com/vikneshgs23/api-automation-portfolio) · [Live Reports](https://vikneshgs23.github.io/api-automation-portfolio/)
 ---
 ### 🎓 Certifications
